@@ -16,8 +16,9 @@
 
 ## 1. Descripción del proyecto
 
-*Presento aquí un sistema sencillo para jugar con tus amigos. En esas ocasiones donde necesitas un "Amigo Invisible" o un "Secret Santa", esta pequeña aplicación web te será de gran ayuda.<br>
-Sin la necesidad de papel y lápiz, ahora podras ingresar los nombres de cada integrante de tu grupo y asignar un "Amigo Secreto" a cada uno de ustedes desde tu tablet o teléfono movil.*<br>
+*Esta herramienta te permite organizar fácilmente un intercambio de regalos con amigos. Ya sea para un 'Amigo Secreto' o un 'Secret Santa', esta aplicación web simplifica el proceso.
+
+Olvídate del papel y lápiz: solo ingresa los nombres de los participantes y asigna automáticamente a cada persona su destinatario desde tu teléfono o tablet.*<br>
 
 
 ## 2. Demostración de funciones y aplicaciones
